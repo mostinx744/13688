@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    },
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Data Science Tools and Ecosystem",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "In this notebook,Data Science Tools and Ecosystem are summarized.",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "Some of the popular languages that Data Scientists use are:",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "[SQL,R,Python]",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "[scipy,numpy,matplotlib,scikit-learn]",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "|Data Science Tools|\n|------------------|\n|Python            |\n|Tableau           |\n|Rstudio           |",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Below are a few examples of evaluating arithmetic expressions in Python.\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "2+2*3\n2*2+3\n2-2+3\n\n\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 1,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "3"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 1
+    },
+    {
+      "cell_type": "code",
+      "source": "#This a simple arithmetic expression to mutiply then add integers\n(3*4)+5",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 2,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "17"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 2
+    },
+    {
+      "cell_type": "code",
+      "source": "This will convert 200 minutes to hours by diving by 60.\n60 minutes = 1 hours\n200 minutes",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "code",
+      "source": "200/60",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "execution_count": 7,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "3.3333333333333335"
+          },
+          "metadata": {}
+        }
+      ],
+      "execution_count": 7
+    },
+    {
+      "cell_type": "code",
+      "source": "",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [
+        {
+          "ename": "<class 'SyntaxError'>",
+          "evalue": "invalid syntax (<ipython-input-4-f5443e32b7bf>, line 1)",
+          "traceback": [
+            "\u001b[0;36m  Cell \u001b[0;32mIn[4], line 1\u001b[0;36m\u001b[0m\n\u001b[0;31m    200 minutes\u001b[0m\n\u001b[0m        ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ],
+          "output_type": "error"
+        }
+      ],
+      "execution_count": 4
+    },
+    {
+      "cell_type": "code",
+      "source": "Objectives:\n•SQL\n•Python\n•R\n•Tableau\n",
+      "metadata": {
+        "trusted": true
+      },
+      "outputs": [],
+      "execution_count": null
+    },
+    {
+      "cell_type": "markdown",
+      "source": "author\nMohammed Ali",
+      "metadata": {}
+    }
+  ]
+}
